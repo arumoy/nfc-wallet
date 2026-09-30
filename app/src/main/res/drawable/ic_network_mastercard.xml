@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Mastercard mark. Converted from aaronfagan/svg-credit-card-payment-icons
+  (flat/mastercard.svg), Apache License 2.0. See res/raw/payment_icons_license.txt.
+  Wordmark path omitted; keeping the recognizable two-circle brand mark.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="26dp"
+    android:viewportWidth="780"
+    android:viewportHeight="500">
+    <path
+        android:fillColor="#253747"
+        android:pathData="M780,0H0V500H780V0Z" />
+    <!-- Orange overlap block -->
+    <path
+        android:fillColor="#FF5A00"
+        android:pathData="M465.738,69.1387H313.812V342.088H465.738V69.1387Z" />
+    <!-- Red circle (left) -->
+    <path
+        android:fillColor="#EB001B"
+        android:pathData="M323.926,205.613C323.926,150.158 349.996,100.94 390,69.1387C360.559,45.9902 323.42,32 282.91,32C186.945,32 109.297,109.648 109.297,205.613C109.297,301.578 186.945,379.227 282.91,379.227C323.42,379.227 360.559,365.237 390,342.088C349.94,310.737 323.926,261.069 323.926,205.613Z" />
+    <!-- Amber circle (right) -->
+    <path
+        android:fillColor="#F79E1B"
+        android:pathData="M670.711,205.613C670.711,301.578 593.062,379.227 497.098,379.227C456.588,379.227 419.449,365.237 390.008,342.088C430.518,310.231 456.082,261.069 456.082,205.613C456.082,150.158 430.012,100.94 390.008,69.1387C419.393,45.9902 456.532,32 497.041,32C593.062,32 670.711,110.154 670.711,205.613Z" />
+</vector>
